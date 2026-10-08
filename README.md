@@ -1,4 +1,4 @@
-# AnimeTracker
+# AniProgress
 
 Web application for tracking anime, managing watch progress, and interacting with other anime fans.
 
@@ -34,7 +34,7 @@ Web application for tracking anime, managing watch progress, and interacting wit
 
 ## About
 
-AnimeTracker is a Laravel-based social anime tracking platform that allows users to discover anime, organize personal watchlists, track episode progress, add friends, and participate in episode-specific discussions.
+AniProgress is a Laravel-based social anime tracking platform that allows users to discover anime, organize personal watchlists, track episode progress, add friends, and participate in episode-specific discussions.
 
 ## Repository Contents
 
