@@ -9,7 +9,7 @@ Web application for tracking anime, managing watch progress, and interacting wit
 - Personal anime lists
   - Watching
   - Watched
-  - Planned
+  - Dropped
 - Episode progress tracking
 - Friend system
 - Friend requests management
